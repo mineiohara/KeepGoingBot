@@ -8,10 +8,10 @@
 * その他サブ機能（集中部屋でのBGM、イベントの通知を予約する機能）
 
 ## 開発環境
-OS: Windows 10, Mac　OS　X
-IDE: Visual Studio Code
-サーバー: Windows 10レンタルサーバー(※1)
-使用言語： Python
-プラットフォーム: Discord
+OS: Windows 10, Mac　OS　X. 
+IDE: Visual Studio Code. 
+サーバー: Windows 10レンタルサーバー(※1)  
+使用言語： Python. 
+プラットフォーム: Discord  
 
 ※1:現在は稼働していません(期間：2020年12月~2021年10月)
