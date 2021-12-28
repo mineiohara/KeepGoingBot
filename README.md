@@ -1,2 +1,1 @@
-# KeepGoingBot
-Discord上で動く三日坊主防止アシストBot
+# 三日坊主防止アシストボット
