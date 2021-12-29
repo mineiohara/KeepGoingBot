@@ -4,7 +4,6 @@
 
 ## 主な機能
 * 目標宣言・振り返りの通知    
-![目標宣言通知](https://github.com/mineiohara/KeepGoingBot/blob/main/image1.png)
 * 継続状態の視覚化
 * その他サブ機能（集中部屋でのBGM、イベントの通知を予約する機能）
 
