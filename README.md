@@ -24,6 +24,9 @@ IDE: Visual Studio Code
 * イベント（プログラミング講座など）
 
 ## イメージ
-* 継続状況
-* 自動生成されたカレンダー
-* 情報共有
+* 継続状況  
+![スクリーンショット 2022-09-28 165117](https://user-images.githubusercontent.com/42444881/192722483-de7f93c7-f515-4f02-8344-548d41bb1c65.png)  
+* 自動生成されたカレンダー  
+![スクリーンショット 2022-09-28 165502](https://user-images.githubusercontent.com/42444881/192722646-a213d603-65be-47d8-b03c-f7ab3ed390d0.png)  
+* 情報共有  
+![スクリーンショット 2022-09-28 165336](https://user-images.githubusercontent.com/42444881/192722732-92bcd8cf-4a65-4120-a113-d0d12f5da1f6.png)  
