@@ -9,7 +9,7 @@
 ## 開発環境
 OS: Windows 10, Mac OS X  
 IDE: Visual Studio Code   
-サーバー: Windows 10レンタルサーバー
+サーバー: Windows 10レンタルサーバー  
 使用言語： Python  
 プラットフォーム: Discord     
 
